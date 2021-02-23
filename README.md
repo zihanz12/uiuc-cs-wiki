@@ -1,6 +1,6 @@
 # A comprehensive guide to UIUC's CS department for incoming freshmen and prospective students
 
-This repository is aimed to be a comprehensive guide to all things CS related for incoming freshmen at the University of Illinois at Urbana Champaign. This guide may become outdated due to changes in the department and may contain errors or oversights. Thus, current students are more than welcome and encouraged to make pull requests in order to correct any errors, update sections, or add additional information. 
+This repository is aimed to be a comprehensive guide to all things CS related for incoming freshmen at the University of Illinois at Urbana Champaign. This guide may become outdated due to changes in the department and may contain errors or oversights. Thus, current students are more than welcome and encouraged to make pull requests in order to correct any errors, update sections, reformat the guide, or add additional information. 
 
 # Table of Contents:
 
