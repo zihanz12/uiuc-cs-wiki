@@ -27,8 +27,8 @@ This repository is aimed to be a comprehensive guide to all things CS related fo
 ## Section 3 - Research and Internships
  * ### 3.1 - Early research opportunites 
  * ### 3.2 - Career Fairs
- * ### 3.3 - Cold-emailing faculty
- * ### 3.4
+ * ### 3.3 - Engineering Career Services
+ * ### 3.4 - Cold-emailing Faculty
 
 ## Section 4 - Transferring to CS
  * ### 4.0.1 - Transferring Before You Enroll
