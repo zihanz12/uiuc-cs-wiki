@@ -9,7 +9,7 @@ The classes in the CS department are never designed to make you fail. Indeed, th
 In terms of how that information becomes relevant to you, recognize that you will not be able to load 7 different CS and math courses into your schedule and still keep your head above water during the semester. Above everything, it is important to pace yourself and not overestimate how much you can take.
 
 ## 1.1 - Required Courses:
-The current sequence of required CS courses for CSENG, Math+CS, Stats+CS, and CS+X is:
+The current sequence of required CS courses for CSENG, Math+CS, Stats+CS, and CS+X is as follows. Note that this is not an exhaustive list of degree requirements, and there are non CS courses that you will have to take.
 
 * **CS125: Intro to Computer Science** - A required introductory programming course similar to AP Computer Science A. 
   * Languages: Java
@@ -31,3 +31,71 @@ The current sequence of required CS courses for CSENG, Math+CS, Stats+CS, and CS
   * Languages: None, but some pseudocode.
 * **CS421: Programming Languages and Compilers** - Fairly self explanatory. Covers elements of programming languages like type systems and functional vs. object-oriented paradigms, and covers how a compiler works.
   * Languages: OCaml, but some sections in the past have been taught in Haskell
+
+## 1.2 - Electives and Tracks:
+
+Because UIUC offers such a massive and expansive undergraduate curriculum, students are pretty easily able to dip their toes into virtually every subfield of CS very easily. It is highly recommended for students to explore some of these subfields, as it's the best way to get the most out of your degree.
+
+The various tracks and subfields are as follows:
+
+Miscellanious Software Engineering Topics:
+* CS410: Text Information Systems
+* CS414: Multimedia Systems
+* CS417: Virtual Reality
+* CS427: Software Engineering I
+* CS428: Software Engineering II
+
+Social Networks, Mobile Computing, and Interface Design:
+* CS434: Mobile Computing & Application
+* CS465: User Interface Design
+* CS467: Social Visualization
+
+Computer Communcation + Networking:
+* CS436: Computer Networking Laboratory
+* CS438 Communication Networks
+* CS439: Wireless Networks
+
+Computer Systems + Operating System Design:
+* CS423: Operating Systems Design
+* CS424: Real-Time Systems
+* CS431: Embedded Systems
+* CS433: Computer System Orgnization
+
+Computer Security:
+* CS460: Security Laboratory
+* CS461: Computer Security I
+* CS463: Computer Security II
+
+Big Data/Statistical Analysis:
+* CS411: Database Systems
+* CS412: Introduction to Data Mining
+* CS416: Data Visualization
+
+Machine Learning/AI:
+* CS440: Artificial Intelligence
+* CS441: Applied Machine Learning (less math)
+* CS446: Machine Learning (more math)
+* CS447: Natural Language Processing
+
+Computational Photography/Computer Graphics:
+* CS418: Interactive Computer Graphics
+* CS419: Production Computer Graphics
+* CS445: Computational Photography
+
+Parallel Programming:
+* CS420: Parallel Programming: Science and Engineering
+* CS483: Applied Parallel Programming
+* CS484: Parallel Programming
+
+Formal Methods + Program Verification:
+* CS474: Logic in Computer Science
+* CS476: Program Verification
+* CS477: Formal Software Development Methods
+
+Programming Languages and Compilers:
+* CS422: Programming Language Design
+* CS426: Compiler Construction
+
+Algorithms and Models of Computation:
+* CS473: Algorithms (advanced version of CS374)
+* CS475: Formal Models of Computation
