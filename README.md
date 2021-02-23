@@ -11,12 +11,11 @@ This repository is aimed to be a comprehensive guide to all things CS related fo
     * #### 0.2.2 - CS173 Proficiency Exam
     * #### 0.2.3 - CS225 Proficiency Exam
 
-## Section 1 - Curriculum overview
+## Section 1 - [Curriculum overview](https://github.com/mersaults/uiuc-cs-incoming-freshman-guide/blob/main/guide/section1.md)
  * ### 1.0.1 - Course Difficulty and What to Expect
  * ### 1.1 - Required Courses
  * ### 1.2 - Electives and Tracks
- * ### 1.3 - Other Courses of Interest
- * ### 1.4 - Graduate level courses
+ * ### 1.3 - Graduate level courses
 
 ## Section 2 - [Registration](https://github.com/mersaults/uiuc-cs-incoming-freshman-guide/blob/main/guide/section2.md)
  * ### 2.1 -  Registration for CS/CS+X majors
