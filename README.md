@@ -18,11 +18,10 @@ This repository is aimed to be a comprehensive guide to all things CS related fo
  * ### 1.3 - Other Courses of Interest
  * ### 1.4 - Graduate level courses
 
-## Section 2 - Registration 
- * ### 2.0.1 - Will I get the CS class I want?
+## Section 2 - [Registration](https://github.com/mersaults/uiuc-cs-incoming-freshman-guide/blob/main/guide/section2.md)
  * ### 2.1 -  Registration for CS/CS+X majors
- * ### 2.2 - Registration for ECE majors
- * ### 2.3 - Registration for non-majors
+ * ### 2.2 - Registration for non-majors
+ * ### 2.3 - Will I get the CS class I want?
 
 ## Section 3 - Research and Internships
  * ### 3.1 - Early research opportunites 
