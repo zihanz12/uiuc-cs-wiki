@@ -36,12 +36,9 @@ The current sequence of required CS courses for CSENG, Math+CS, Stats+CS, and CS
 
 Because UIUC offers such a massive and expansive undergraduate curriculum, students are pretty easily able to dip their toes into virtually every subfield of CS very easily. It is highly recommended for students to explore some of these subfields, as it's the best way to get the most out of your degree.
 
-The various tracks and subfields are as follows:
+The following is a (non-exhaustive) list of subfields and electives:
 
-Miscellanious Software Engineering Topics:
-* CS410: Text Information Systems
-* CS414: Multimedia Systems
-* CS417: Virtual Reality
+Software Engineering:
 * CS427: Software Engineering I
 * CS428: Software Engineering II
 
@@ -67,6 +64,7 @@ Computer Security:
 * CS463: Computer Security II
 
 Big Data/Statistical Analysis:
+* CS410: Text Information Systems
 * CS411: Database Systems
 * CS412: Introduction to Data Mining
 * CS416: Data Visualization
