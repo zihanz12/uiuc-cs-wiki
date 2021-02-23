@@ -97,3 +97,10 @@ Programming Languages and Compilers:
 Algorithms and Models of Computation:
 * CS473: Algorithms (advanced version of CS374)
 * CS475: Formal Models of Computation
+
+## 1.3 - Graduate Level Courses:
+
+As an undergraduate, it is possible to register for graduate level CS classes (any class with the code CS5--). In order to register, you are required to get the approval of the instructor of the class. Assuming that you have met the prerequisites for the class and the instructor does not feel that they need to hold spots for graduate students, you will most likely be able to register. 
+
+Note that the difficulty of graduate classes may be much higher than undergraduate classes, so it may be a good idea to consult with your advisor in order to see whether or not you are overburdening yourself before you decide to take one.
+
