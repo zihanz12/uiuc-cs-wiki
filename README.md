@@ -29,5 +29,3 @@ This repository is aimed to be a comprehensive guide to all things CS related fo
  * ### 3.4 - Cold-emailing Faculty
 
 ## Addendum A: On the Differences Between CS+X and CS
-
-## Addendum B: On Impostor Syndrome
