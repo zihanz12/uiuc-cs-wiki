@@ -22,7 +22,7 @@ This repository is aimed to be a comprehensive guide to all things CS related fo
  * ### 2.2 - Registration for non-majors
  * ### 2.3 - Will I Get the CS class I Want?
 
-## Section 3 - Research and Internships
+## Section 3 - Research and Internships (In the works)
  * ### 3.1 - Early Research Opportunites 
  * ### 3.2 - Career Fairs
  * ### 3.3 - Engineering Career Services
