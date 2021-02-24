@@ -28,12 +28,6 @@ This repository is aimed to be a comprehensive guide to all things CS related fo
  * ### 3.3 - Engineering Career Services
  * ### 3.4 - Cold-emailing Faculty
 
-## Section 4 - Transferring to CS
- * ### 4.0.1 - Transferring Before You Enroll
- * ### 4.1 - Interdepartmental Transfers
- * ### 4.2 - Transferring Within the Grainger College of Engineering
- * ### 4.3 - Transferring via PREP/Engineering Undeclared
-
 ## Addendum A: On the Differences Between CS+X and CS
 
 ## Addendum B: On Impostor Syndrome
