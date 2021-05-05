@@ -4,7 +4,7 @@
 
 This repository is aimed to be a publicly available, easily accessible, and comprehensive guide to the CS department at the University of Illinois at Urbana-Champaign, both acting as an introductory guide to the department to incoming freshmen, and and as a general reference for any and all parts of the CS department. 
 
-As you'll notice, this guide in its current state is woefully incomplete, and contributions to the guide are not only welcomed but necessary in order to keep the repository useful and up to date. Any and all contributions to this guide are useful, so if you would at all like to contribute in any way, shape, or form, please do so. If you want to contribute, please see the styleguide for contributions.
+As you'll notice, this guide in its current state is woefully incomplete, and contributions to the guide are not only welcomed but necessary in order to keep the repository useful and up to date. Any and all contributions to this guide are useful, so if you would at all like to contribute in any way, shape, or form, please do so. If you would like to contribute, please see the styleguide.
 
 # Table of Contents:
 
@@ -26,15 +26,16 @@ As you'll notice, this guide in its current state is woefully incomplete, and co
  * ### 2.2 - Registration for non-majors
  * ### 2.3 - Will I Get the CS class I Want?
 
-## Section 3 - Research and Internships, and Continuing Education
+## Section 3 - Research, Internships, and Continuing Education
  * ### 3.1 - Research as an Undergradate 
  * ### 3.2 - Career Fairs
  * ### 3.3 - Graduate School
 
 ## Section 4 - Transferring to CS
- * ### 4.1 Tranferring from outside Grainger
- * ### 4.2 Transferring within Grainger
- * ### 4.3 Transferring from PREP
- * ### 4.4 Tranferring from Engineering Undeclared
+ * ### 4.1 Tranferring from outside The Grainger College of Engineering
+ * ### 4.2 Transferring within The Grainger College of Engineering
+ * ### 4.3 Transferring to CS+X
+ * ### 4.4 Transferring from PREP
+ * ### 4.5 Tranferring from Engineering Undeclared
 
 ## Addendum A: Styleguide and How to Contribute
