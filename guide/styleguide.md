@@ -12,12 +12,20 @@ The following are a set of guidelines that all additions/revisions of the guide 
 
 ***Conciseness:*** - Try to keep your writing as clear and concise as possible. While this guide is intended to be comprehensive, having your writing be overly verbose detracts from its helpfulness. 
 
-***Impartiality:*** - When providing advice, try to be impartial as you possibly can. If there is a general/historical consensus on some topic, go with that. Please remember that your experiences in a certain class or with respect to a certain aspect of the department are not universal.
+***Impartiality:*** - When providing advice, attempt to be impartial as you possibly can. If there is a general/historical consensus on some topic, go with that. Please remember that your experiences in a certain class or with respect to a certain aspect of the department are not universal.
 
-***Accuracy:*** - Submissions should be current and as accurate as they possibly can be. Ideally should be able to trace your information back to some reliable department-internal source, but if you can't then 
+***Accuracy:*** - Submissions should be current and as accurate as they possibly can be. Ideally should be able to trace your information back to some reliable department-internal source. If that's not possible, the information should be able to be easily corroborated by another student.
 
 ***Formatting:*** - Your submissions should generally be similar if not identical to the already existing formatting of the guide. If there's no established precedent for formatting, go with your what you think is best.
 
 # How to Contribute
+As a prerequisite, you should have [git](https://git-scm.com/) installed on whatever device you are contributing from.
+
+1. Fork the repository.
+  * If you would like to make continuing contributions to the guide, make sure to configure this repository as your fork's remote repo by using `git add remote upstream [project link here]`. Make sure you use `git pull` before you make a contribution to make sure that your fork is up to date with the latest version of the guide.
+2. Create a new branch in your forked repository.
+3. Make and commit whatever changes you would like to make in your newly created branch.
+4. Make a pull request with this repository.
 
 # Issues
+If there are any overarching issues with the guide that you would like to see fixed, but you don't want to make a pull request, submit an issue to the repository.
