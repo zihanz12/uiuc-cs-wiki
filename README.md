@@ -4,7 +4,7 @@
 
 This repository is aimed to be a publicly available, easily accessible, and comprehensive guide to the CS department at the University of Illinois at Urbana-Champaign, both acting as an introductory guide to the department to incoming freshmen, and and as a general reference for any and all parts of the CS department. 
 
-As you'll notice, this guide in its current state is woefully incomplete, and contributions to the guide are not only welcomed but necessary in order to keep the repository useful and up to date. Any and all contributions to this guide are useful, so if you would at all like to contribute in any way, shape, or form, please do so. If you would like to contribute, please see the styleguide.
+As you might notice, this guide in its current state is woefully incomplete, and contributions to the guide are not only welcomed but necessary in order to keep the repository useful and up to date. Any and all contributions to this guide are useful, so if you would at all like to contribute in any way, shape, or form, please do so. If you would like to contribute, please see the [styleguide](https://github.com/mersaults/uiuc-cs/blob/main/guide/styleguide.md).
 
 # Table of Contents:
 
@@ -38,4 +38,4 @@ As you'll notice, this guide in its current state is woefully incomplete, and co
  * ### 4.4 Transferring from PREP
  * ### 4.5 Tranferring from Engineering Undeclared
 
-## Addendum A: Styleguide and How to Contribute
+## Addendum A: [Styleguide and How to Contribute](https://github.com/mersaults/uiuc-cs/blob/main/guide/styleguide.md)
