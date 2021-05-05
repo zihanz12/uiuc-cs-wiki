@@ -10,13 +10,13 @@ The following are a set of guidelines that all additions/revisions of the guide 
 
 ***Readability:*** - Don't use jargon to convey information that could be said in plain English. CS-specific or department-specific jargon is occasionally fine and in some cases necessary, but try to make your writing as accessible as you can.
 
-***Conciseness*** - Try to keep your writing as clear and concise as possible. While this guide is intended to be comprehensive, having your writing be overly verbose detracts from its helpfulness. 
+***Conciseness:*** - Try to keep your writing as clear and concise as possible. While this guide is intended to be comprehensive, having your writing be overly verbose detracts from its helpfulness. 
 
-***Impartiality*** - When providing advice, try to be impartial as you possibly can. If there is a general/historical consensus on some topic, go with that. Please remember that your experiences in a certain class or with respect to a certain aspect of the department are not universal.
+***Impartiality:*** - When providing advice, try to be impartial as you possibly can. If there is a general/historical consensus on some topic, go with that. Please remember that your experiences in a certain class or with respect to a certain aspect of the department are not universal.
 
-***Accuracy*** - Submissions should be current and as accurate as they possibly can be. Ideally should be able to trace your information back to some reliable department-internal source, but if you can't then 
+***Accuracy:*** - Submissions should be current and as accurate as they possibly can be. Ideally should be able to trace your information back to some reliable department-internal source, but if you can't then 
 
-***Formatting*** - Your submissions should generally be similar if not identical to the already existing formatting of the guide. If there's no established precedent for formatting, go with your what you think is best.
+***Formatting:*** - Your submissions should generally be similar if not identical to the already existing formatting of the guide. If there's no established precedent for formatting, go with your what you think is best.
 
 # How to Contribute
 
