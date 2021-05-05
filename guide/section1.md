@@ -1,13 +1,5 @@
 # Section 1 - Curriculum Overview
 
-## 1.0.1 - Course Difficulty and What to Expect
-
-If you are at all daunted by how difficult the curriculum might seem, don't be. 
-
-The classes in the CS department are never designed to make you fail. Indeed, the general consensus among CS majors and those who have taken CS classes is that classes are more time consuming than inherently difficult, and generally speaking, both students and faculty are incredibly helpful and want to make sure you succeed.
-
-In terms of how that information becomes relevant to you, recognize that you will not be able to load 6 different CS and math courses into your schedule and still keep your head above water during the semester. Above everything, it is important to pace yourself and not overestimate how much you can take.
-
 ## 1.1 - Required Courses:
 The current sequence of required CS courses for CSENG, Math+CS, Stats+CS, and CS+X is as follows. Note that this is not an exhaustive list of degree requirements, and there are non CS courses that you will have to take.
 
@@ -73,8 +65,8 @@ Big Data:
 
 Machine Learning/AI:
 * CS440: Artificial Intelligence
-* CS441: Applied Machine Learning (less math)
-* CS446: Machine Learning (more math)
+* CS441: Applied Machine Learning
+* CS446: Machine Learning
 * CS447: Natural Language Processing
 
 Computational Photography/Computer Graphics:
@@ -99,10 +91,3 @@ Programming Languages and Compilers:
 Algorithms and Models of Computation:
 * CS473: Algorithms
 * CS475: Formal Models of Computation
-
-## 1.3 - Graduate Level Courses:
-
-As an undergraduate, it is possible to register for graduate level CS classes (any class with the code CS5--). In order to register, you are required to get the approval of the instructor of the class. Assuming that you have met the prerequisites for the class and the instructor does not feel that they need to hold spots for graduate students, you will most likely be able to register. 
-
-Note that the difficulty of graduate classes may be much higher than undergraduate classes, so it may be a good idea to consult with your advisor in order to see whether or not you are overburdening yourself before you decide to take one.
-
