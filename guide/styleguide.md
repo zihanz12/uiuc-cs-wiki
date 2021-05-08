@@ -12,9 +12,9 @@ The following are a set of guidelines that all additions/revisions of the guide 
 
 ***Conciseness:*** - Try to keep your writing as clear and concise as possible. While this guide is intended to be comprehensive, having your writing be overly verbose detracts from its helpfulness. 
 
-***Impartiality:*** - When providing advice, attempt to be impartial as you possibly can. If there is a general/historical consensus on some topic, go with that. Please remember that your experiences in a certain class or with respect to a certain aspect of the department are not universal.
+***Impartiality:*** - When providing advice, attempt to be impartial as you possibly can. If there is a general/historical consensus on something, go with that. Please remember that your experiences in a certain class or with respect to a certain aspect of the department are not universal.
 
-***Accuracy:*** - Submissions should be current and as accurate as they possibly can be. Ideally should be able to trace your information back to some reliable department-internal source. If that's not possible, the information should be able to be easily corroborated by another student.
+***Accuracy:*** - Submissions should be current and as accurate as they possibly can be. Ideally you should be able to trace your information back to some reliable department-internal source. If that's not possible, the information should be able to be easily corroborated by someone else.
 
 ***Formatting:*** - Your submissions should generally be similar if not identical to the already existing formatting of the guide. If there's no established precedent for formatting, go with your what you think is best.
 
