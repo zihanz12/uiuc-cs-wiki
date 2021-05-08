@@ -5,7 +5,7 @@ See [The Office of the Registrar's Website](https://registrar.illinois.edu/regis
 ## 2.1 - Registration for CS/CS+X majors:
 The best resource for figuring out how registration for CS majors works is [here](https://cs.illinois.edu/academics/undergraduate/registration/cs-course-restrictions-enrollment-caps). To boil it down:
 
-* All classes that are marked as staggered registration (ST) are gradually opened up to CS students on the basis of seniority. This means that seniors register before juniors, juniors are able register before sophomores, and so on. The time that you register for CS classes is determined by cohort (the year you enrolled at UIUC), not your class standing by credit hours.
+* All classes that are marked as staggered registration (ST) are gradually opened up to CS students on the basis of seniority. This means that seniors register before juniors, juniors register before sophomores, and so on. The time that you register for CS classes is determined by cohort (the year you enrolled at UIUC), not your class standing by credit hours.
 * Cohort restrictions are lifted one by one on different dates. Once a cohort restriction is lifted, all students in that cohort are able to register for their classes.
 * Once all cohort restrictions have been lifted, classes will open for non-majors. Generally, students in the Grainger College of Engineering are allowed to register for CS classes first, and then classes are opened to the entire university.
 
@@ -45,7 +45,7 @@ Yes. There are sections in lower level CS classes exclusively for PREP and Engin
 ### Non-Majors:
 The answer to this question is dependent on what classes you plan on registering for:
 * **CS101/105:** Yes. If you plan on taking these, it's probably because they are required for your major, meaning you should have no issues registering.
-* **CS124:** Most likely, yes. This is an intro class created specifically for freshmen, meaning that unless you are unbelievably unlucky and the section you need is filled by the time you register, you'll be able to take this class.
+* **CS124:** Most likely, yes. This is an intro class with a lot of spots, meaning that unless you are unbelievably unlucky you'll be able to take this class.
 * **CS173/CS225:** Dependent on your registration time ticket. These classes tend to fill up very quickly because they are in high demand (especially CS225), meaning that the earlier you can register the more easily you will be able to claim a spot.
 * **CS233/CS241/CS421:** Arguably somewhat difficult to register for. These are all staggered registration classes that most CS majors are required to take.
 * **CS361:** No. CS361 is restricted to majors only.
