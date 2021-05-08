@@ -11,20 +11,19 @@ As you might notice, this guide in its current state is woefully incomplete, and
 ## Section 0 - [Incoming Freshmen](https://github.com/mersaults/uiuc-cs-incoming-freshman-guide/blob/main/guide/section0.md)
   * ### 0.1 - Preparing For Your First Semester
   * ### 0.2 - Proficiency Exams
-    * #### 0.2.1 - CS125 Proficiency Exam
-    * #### 0.2.2 - CS173 Proficiency Exam
-    * #### 0.2.3 - CS225 Proficiency Exam
+  * ### 0.3 First-time Freshman Registration
+    * #### 0.3.5 - What Classes Should I Take?
+  * ### 0.4 - Advisor Meetings
 
 ## Section 1 - [Curriculum Overview](https://github.com/mersaults/uiuc-cs-incoming-freshman-guide/blob/main/guide/section1.md)
- * ### 1.0.1 - Course Difficulty and What to Expect
  * ### 1.1 - Required Courses
  * ### 1.2 - Electives and Tracks
  * ### 1.3 - Graduate Level Courses
 
 ## Section 2 - [Registration](https://github.com/mersaults/uiuc-cs-incoming-freshman-guide/blob/main/guide/section2.md)
  * ### 2.1 -  Registration for CS/CS+X majors
- * ### 2.2 - Registration for non-majors
- * ### 2.3 - Will I Get the CS class I Want?
+ * ### 2.2 - Registration for Non-majors
+ * ### 2.3 - Will I Get the CS Class I Want?
 
 ## Section 3 - Research, Internships, and Continuing Education
  * ### 3.1 - Research as an Undergradate 
