@@ -1,6 +1,6 @@
 # Section 2 - Registration
 
-See [The Office of the Registrar's Website](https://registrar.illinois.edu/registration/) for general resources on how registration works.
+See [The Office of the Registrar's website](https://registrar.illinois.edu/registration/) for general resources on how registration works.
 
 ## 2.1 - Registration for CS/CS+X majors:
 The best resource for figuring out how registration for CS majors works is [here](https://cs.illinois.edu/academics/undergraduate/registration/cs-course-restrictions-enrollment-caps). To boil it down:
