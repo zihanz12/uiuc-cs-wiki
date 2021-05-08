@@ -31,10 +31,10 @@ As you might notice, this guide in its current state is woefully incomplete, and
  * ### 3.3 - Graduate School
 
 ## Section 4 - Transferring to CS
- * ### 4.1 Tranferring from outside The Grainger College of Engineering
- * ### 4.2 Transferring within The Grainger College of Engineering
- * ### 4.3 Transferring to CS+X
- * ### 4.4 Transferring from PREP
- * ### 4.5 Tranferring from Engineering Undeclared
+ * ### 4.1 - Tranferring from outside The Grainger College of Engineering
+ * ### 4.2 - Transferring within The Grainger College of Engineering
+ * ### 4.3 - Transferring to CS+X
+ * ### 4.4 - Transferring from PREP
+ * ### 4.5 - Tranferring from Engineering Undeclared
 
 ## Addendum A: [Styleguide and How to Contribute](https://github.com/mersaults/uiuc-cs/blob/main/guide/styleguide.md)
