@@ -7,7 +7,7 @@ The best resource for figuring out how registration for CS majors works is [here
 
 * All classes that are marked as staggered registration (ST) are gradually opened up to CS students on the basis of seniority. This means that seniors register before juniors, juniors register before sophomores, and so on. The time that you register for CS classes is determined by cohort (the year you enrolled at UIUC), not your class standing by credit hours.
 * Cohort restrictions are lifted one by one on different dates. Once a cohort restriction is lifted, all students in that cohort are able to register for their classes.
-* Once all cohort restrictions have been lifted, classes will open for non-majors. Generally, students in the Grainger College of Engineering are allowed to register for CS classes first, and then classes are opened to the entire university.
+* Once all cohort restrictions have been lifted, classes will open for non-majors. Students in the Grainger College of Engineering are allowed to register for CS classes first, and then classes are opened to the entire university.
 
 NOTE: Staggered registration applies ONLY to CS classes. Your time of registration for classes not under the CS department is determined by your general registration time ticket.
 
