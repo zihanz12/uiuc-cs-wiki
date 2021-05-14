@@ -2,7 +2,7 @@
 
 Below is a list of the entire CS curriculum. If someone has written an overview for the course, it will have a link attached to it with said overview.
 
-**NOTE: If you would like to contribute a course overview: Please see the [course overview styleguide] for reference.**
+**NOTE: If you would like to contribute a course overview: Please see the [course overview styleguide](https://github.com/mersaults/uiuc-cs-wiki/blob/main/styleguides/overviewstyleguide.md) for reference.**
 
 ## 1.1 - Required Courses:
 The current sequence of required CS courses for CSENG, Math+CS, Stats+CS, and CS+X is as follows. Note that this is not an exhaustive list of degree requirements, and there are non CS courses that you will have to take.
