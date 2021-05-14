@@ -17,12 +17,11 @@ As you might notice, this guide in its current state is woefully incomplete, and
 
 ## Section 1 - [Curriculum Overview](https://github.com/mersaults/uiuc-cs-incoming-freshman-guide/blob/main/guide/section1.md)
  * ### 1.1 - Required Courses
- * ### 1.2 - Electives and Tracks
- * ### 1.3 - Graduate Level Courses
+ * ### 1.2 - Electives 
 
 ## Section 2 - [Registration](https://github.com/mersaults/uiuc-cs-incoming-freshman-guide/blob/main/guide/section2.md)
- * ### 2.1 -  Registration for CS/CS+X majors
- * ### 2.2 - Registration for Non-majors
+ * ### 2.1 -  Staggered Registration
+ * ### 2.2 - Open Registration
  * ### 2.3 - Will I Get the CS Class I Want?
 
 ## Section 3 - Research, Internships, and Continuing Education
@@ -33,8 +32,8 @@ As you might notice, this guide in its current state is woefully incomplete, and
 ## Section 4 - Transferring to CS
  * ### 4.1 - Tranferring from outside The Grainger College of Engineering
  * ### 4.2 - Transferring within The Grainger College of Engineering
- * ### 4.3 - Transferring to CS+X
  * ### 4.4 - Transferring from PREP
  * ### 4.5 - Tranferring from Engineering Undeclared
+ * ### 4.3 - Transferring to CS+X
 
 ## Addendum A: [Styleguide and How to Contribute](https://github.com/mersaults/uiuc-cs/blob/main/guide/styleguide.md)
