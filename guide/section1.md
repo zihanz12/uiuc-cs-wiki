@@ -1,93 +1,137 @@
 # Section 1 - Curriculum Overview
 
+Below is a list of the entire CS curriculum. If someone has written an overview for the course, it will have a link attached to it with said overview.
+
+**NOTE: If you would like to contribute a course overview: Please see the [course overview styleguide] for reference.**
+
 ## 1.1 - Required Courses:
 The current sequence of required CS courses for CSENG, Math+CS, Stats+CS, and CS+X is as follows. Note that this is not an exhaustive list of degree requirements, and there are non CS courses that you will have to take.
 
-* **CS124: Introduction to Computer Science I** 
-  * **Languages:** Java
-* **CS128: Introduction to Computer Science II** 
-  * **Languages:** C++
-* **CS173: Discrete Structures** 
-  * **Languages:** None, but some use of pseudocode.
-* **CS225: Data Structures** 
-  * **Languages:** C++
-* **CS233: Computer Architecture** 
-  * **Languages:** Verilog (a hardware description language) QtSpim (a processor simulator)
-* **CS241: System Programming** 
-  * **Languages:** C
-* **CS240: Introduction to Computer Systems** 
-  * **Languages:** C, Python
-  * **(NOTE: Required only for select CS+X majors, but can be replaced by CS233 + CS241)**
-* **CS357: Numerical Methods**
-  * **Languages:** Python
-  * **(NOTE: Required only for CSENG, Math+CS, and Stats+CS)**
-* **CS361: Probabilty and Statistics for Computer Science**
-  * **Languages:** Python
-  * **NOTE: Can be replaced by select classes for non-CSENG majors**
-* **CS374: Introduction to Algorithms and Models of Computation** 
-  * **Languages:** None, but some pseudocode.
-* **CS421: Programming Languages and Compilers**
-  * **Languages:** OCaml/Haskell
+**CS124: Introduction to Computer Science I** 
+
+**CS128: Introduction to Computer Science II** 
+
+**CS173: Discrete Structures** 
+
+[**CS225: Data Structures**](https://github.com/mersaults/uiuc-cs/blob/main/guide/courseoverviews/cs225.md)
+
+**CS233: Computer Architecture** 
+
+**CS241: System Programming** 
+
+**CS240: Introduction to Computer Systems** 
+ * NOTE: Required only for select CS+X majors, but can be replaced by CS233 + CS241
+
+**CS357: Numerical Methods**
+ * NOTE: Required only for CSENG, Math+CS, and Stats+CS
+
+**CS361: Probabilty and Statistics for Computer Science**
+ * NOTE: Can be replaced by select classes for non-CSENG majors
+
+**CS374: Introduction to Algorithms and Models of Computation**
+
+**CS421: Programming Languages and Compilers**
 
 ## 1.2 - Electives:
-The following is a (non-exhaustive) list of subfields and electives:
 
-Software Engineering:
-* CS427: Software Engineering I
-* CS428: Software Engineering II
+CS407: Cryptography
 
-Social Networks, Mobile Computing, and Interface Design:
-* CS434: Mobile Computing & Application
-* CS465: User Interface Design
-* CS467: Social Visualization
+CS409: The Art of Web Programming 
 
-Computer Communcation + Networking:
-* CS436: Computer Networking Laboratory
-* CS438 Communication Networks
-* CS439: Wireless Networks
+CS410: Text Information Systems
 
-Computer Systems:
-* CS423: Operating Systems Design
-* CS424: Real-Time Systems
-* CS431: Embedded Systems
-* CS433: Computer System Orgnization
+CS411: Database Systems 
 
-Computer Security:
-* CS460: Security Laboratory
-* CS461: Computer Security I
-* CS463: Computer Security II
+CS412: Introduction to Data Mining
 
-Big Data:
-* CS410: Text Information Systems
-* CS411: Database Systems
-* CS412: Introduction to Data Mining
-* CS416: Data Visualization
+CS413: Intro to Combinatorics 
 
-Machine Learning/AI:
-* CS440: Artificial Intelligence
-* CS441: Applied Machine Learning
-* CS446: Machine Learning
-* CS447: Natural Language Processing
+CS414: Multimedia Systems
 
-Computational Photography/Computer Graphics:
-* CS418: Interactive Computer Graphics
-* CS419: Production Computer Graphics
-* CS445: Computational Photography
+CS416: Data Visualization
 
-Parallel Programming:
-* CS420: Parallel Programming: Science and Engineering
-* CS483: Applied Parallel Programming
-* CS484: Parallel Programming
+CS417: Virtual Reality
 
-Formal Methods + Program Verification:
-* CS474: Logic in Computer Science
-* CS476: Program Verification
-* CS477: Formal Software Development Methods
+CS418: Interactive Computer Graphics
 
-Programming Languages and Compilers:
-* CS422: Programming Language Design
-* CS426: Compiler Construction
+CS419: Production Computer Graphics
 
-Algorithms and Models of Computation:
-* CS473: Algorithms
-* CS475: Formal Models of Computation
+CS420: Parallel Progamming: Science & Engineering
+
+CS422: Programming Language Design
+
+CS423: Operating Systems Design
+
+CS424: Real-Time Systems
+
+CS425: Distributed Systems
+
+CS426: Compiler Construction
+
+CS427: Software Engineering I
+
+CS428: Software Engineering II
+
+CS431: Embedded Systems
+
+CS433: Computer System Organization
+
+CS434: Mobile Computing & Application
+
+CS435: Cloud Networking
+
+CS436: Computer Networking Laboratory
+
+CS437: Topics in Internet of Things
+
+CS438: Communication Networks
+
+CS439: Wireless Networks
+
+CS440: Artificial Intelligence
+
+CS441: Applied Machine Learning
+
+CS445: Computational Photography
+
+CS446: Machine Learning
+
+CS447: Natural Language Processing
+
+CS448: Audio Computing Laboratory
+
+CS450: Numerical Analysis
+
+CS457: Numerical Methods II
+
+CS460: Security Laboratory 
+
+CS461: Computer Security I
+
+CS463: Computer Security II 
+
+CS464: Topics in Societal and Ethical Impacts of Computer Technology
+
+CS465: User Interface Design
+
+CS466: Introduction to Bioinformatics
+
+CS467: Social Visualization
+
+CS473: Algorithms
+
+CS474: Logic in Computer Science
+
+CS475: Formal Models of Computation 
+
+CS476: Program Verification 
+
+CS477: Formal Software Development Methods
+
+CS481: Advanced Topics in Stochastic Processes & Applications
+
+CS482: Simulation
+
+CS483: Applied Parallel Programming
+
+CS484: Parallel Programming
