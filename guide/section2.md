@@ -14,7 +14,6 @@ NOTE: Staggered registration applies ONLY to CS classes. Your time of registrati
 ## 2.2 - Open Registration:
 Classes that do not fall under staggered registration are considered open registration.
 
-#### Open Enrollment:
 The classes that are open enrollment are as follows:
 * CS124: Introduction to Computer Science I
 * CS128: Introduction to Computer Science II
