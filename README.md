@@ -36,4 +36,4 @@ As you might notice, this guide in its current state is woefully incomplete and 
  * ### 4.4 - Tranferring from Engineering Undeclared
  * ### 4.5 - Transferring to CS+X
 
-## Addendum A: [Styleguide and How to Contribute](https://github.com/mersaults/uiuc-cs/blob/main/guide/styleguide.md)
+## Addendum A: [Styleguide and How to Contribute](https://github.com/mersaults/uiuc-cs-wiki/blob/main/styleguides/styleguide.md)
