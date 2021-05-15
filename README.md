@@ -4,7 +4,7 @@
 
 This repository is aimed to be a publicly available, easily accessible, and comprehensive guide to the CS department at the University of Illinois at Urbana-Champaign, both acting as an introductory guide to the department to incoming freshmen, and and as a general reference for any and all parts of the CS department. 
 
-As you might notice, this guide in its current state is woefully incomplete and inevitably full of errors, inaccuracies, mistakes, goofs, spoofs, and the like. Contributions to the guide are not only welcomed but necessary in order to keep the repository useful and up to date. Any and all contributions to this guide are useful. If you would like to contribute, please see the [styleguide](https://github.com/mersaults/uiuc-cs-wiki/blob/main/styleguides/styleguide.md). If you would like to contribute a course overview for Section 1, please see the [styleguide for course overviews](https://github.com/mersaults/uiuc-cs-wiki/blob/main/styleguides/overviewstyleguide.md)
+As you might notice, this guide in its current state is woefully incomplete and inevitably full of errors, inaccuracies, mistakes, goofs, spoofs, and the like. Contributions to the guide are not only welcomed but necessary in order to keep the repository useful and up to date. Any and all contributions to this guide are useful. If you would like to contribute, please see the [styleguide](https://github.com/mersaults/uiuc-cs-wiki/blob/main/styleguides/styleguide.md). If you would like to contribute a course overview for Section 1, please see the [styleguide for course overviews](https://github.com/mersaults/uiuc-cs-wiki/blob/main/styleguides/overviewstyleguide.md).
 
 # Table of Contents:
 
@@ -32,7 +32,11 @@ As you might notice, this guide in its current state is woefully incomplete and 
 
 ## Section 4 - Frequently Asked Questions
  * ### 4.1 - Should I take X with Y?
+ * ### 4.2 - What's the Difference Between X and Y?
+ * ### 4.3 - What's the Difference Between CS, Math+CS/Statistics+CS, and CS+X?
 
-## Addendum A: Why does this exist?
-## Addendum B: On the differences between CS, Math+CS/Statistics+CS, and CS+X
-## Addendum C: General Resource directory
+---
+
+### Addendum A: Why Does This Exist?
+### Addendum B: Steal This Guide!
+### Addendum C: General Resource Directory
