@@ -2,8 +2,14 @@
 
 See [The Office of the Registrar's website](https://registrar.illinois.edu/registration/) for general resources on how registration works.
 
+## 2.0.1 - Prerequisite Enforcement:
+
+The CS department is the only department at UIUC that forces students to complete prerequisites for core (required) classes. For all other departments, students are not required to explicitly have credit for or be currently enrolled in prerequisite classes in order to register for whichever class required those prerequisites. In a sense, the CS department turns what are effectively recommendations into hard restrictions.
+
+However, by university policy, the CS department is not allowed to enforce prerequisites for any 400 level elective courses, and students are able to register for whichever 400 level courses they would like to without having prerequisite credit.
+
 ## 2.1 - Staggered Registration:
-In order to accomodate the sheer size of the CS department and the popularity of classes it offers, the CS department places certain registration restrictions on its classes in order to make sure that students who are CS majors are able to register for the classes they need. The best resource for figuring out how registration for CS majors works is [here](https://cs.illinois.edu/academics/undergraduate/registration/cs-course-restrictions-enrollment-caps). To boil it down:
+In order to accomodate the sheer size of the CS department and the popularity of classes it offers, certain registration restrictions are placed on its classes in order to make sure that students who are CS majors are able to register for the classes they need. The best resource for figuring out how registration for CS majors works is [here](https://cs.illinois.edu/academics/undergraduate/registration/cs-course-restrictions-enrollment-caps). To boil it down:
 
 * All classes that are marked as staggered registration (ST) are gradually opened up to CS students on the basis of seniority. This means that seniors register before juniors, juniors register before sophomores, and so on. The time that you register for CS classes is determined by cohort (the year you enrolled at UIUC), not your class standing by credit hours.
 * Cohort restrictions are lifted one by one on different dates. Once a cohort restriction is lifted, all students in that cohort are able to register for their classes.
