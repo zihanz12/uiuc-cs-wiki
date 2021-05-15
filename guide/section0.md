@@ -38,4 +38,4 @@ If you would like to transfer, you should:
 * Have a well-thought-out backup plan for if you are unsuccessful in transferring.
 * Have a good understanding of computer science as a field.
 
-If you would like to transfer at all, consult [this page](https://cs.illinois.edu/admissions/undergraduate/transfer-students) for more information on the requi
+If you would like to transfer at all, consult [this page](https://cs.illinois.edu/admissions/undergraduate/transfer-students) for more information on the requirements.
