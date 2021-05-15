@@ -24,7 +24,7 @@ First-time freshman registration occurs between June and July, and is done on a 
 
 Registration occurs before proficiency exams happen, and first-time freshmen are required to first register for classes as if they do not plan to take any proficiency exams. This means that if you are planning to place out of CS124, you are required to first register for CS124 and then register for the next classes in the sequence once you have passed the exam. This is to prevent students who do not end up passing the exam from taking class spots from those who have passed the exam or already have credit for the class.
 
-### 0.4 What Classes Should I Take?
+## 0.4 What Classes Should I Take?
 
 Which classes you should take is ultimately dependent on your individual graduation requirements, which classes you are coming in with credit for, and your overall goals for your undergraduate education. As a starting point, the CS department provides a helpful [flowchart](https://grainger.illinois.edu/academics/undergraduate/majors-and-minors/cs-map) which may be a good way for you to get an idea of what a four-year plan would look like. However, the majority of students do not take classes in the order that they are listed here, and you should consult with [your advisors](https://cs.illinois.edu/academics/undergraduate/undergraduate-advising) to determine what works best for you.
 
