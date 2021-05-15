@@ -37,6 +37,6 @@ As you might notice, this guide in its current state is woefully incomplete and 
 
 ---
 
-### Addendum A: Why Does This Exist?
-### Addendum B: Steal This Guide!
+### Addendum A: [Why Does This Exist?](https://github.com/mersaults/uiuc-cs-wiki/blob/main/guide/addenda/addendum_a.md)
+### Addendum B: [Steal This Guide!](https://github.com/mersaults/uiuc-cs-wiki/blob/main/guide/addenda/addendum_b.md)
 ### Addendum C: General Resource Directory
