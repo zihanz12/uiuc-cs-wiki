@@ -1,4 +1,4 @@
-# Section 0: Incoming CS Majors
+# Section 0: Incoming Freshmen
 
 ## 0.1 Preparing for Your First Semester
 
