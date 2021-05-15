@@ -13,13 +13,14 @@ As you might notice, this guide in its current state is woefully incomplete and 
   * ### 0.2 - Proficiency Exams
   * ### 0.3 - First-time Freshman Registration
   * ### 0.4 - What Classes Should I Take?
-  * ### 0.5 - Transferring to 
+  * ### 0.5 - Transferring to CS
 
 ## Section 1 - [Curriculum Overview](https://github.com/mersaults/uiuc-cs-incoming-freshman-guide/blob/main/guide/section1.md)
  * ### 1.1 - Required Courses
  * ### 1.2 - Electives 
 
 ## Section 2 - [Registration](https://github.com/mersaults/uiuc-cs-incoming-freshman-guide/blob/main/guide/section2.md)
+ * ### 2.0.1 - Prerequisite Enforcement
  * ### 2.1 - Staggered Registration
  * ### 2.2 - Open Registration
  * ### 2.3 - Will I Get the CS Class I Want?
@@ -29,5 +30,9 @@ As you might notice, this guide in its current state is woefully incomplete and 
  * ### 3.2 - Internships
  * ### 3.3 - Graduate School
 
-## Addendum A: On the differences between CS, Math+CS/Statistics+CS, and CS+X
-## Addendum B: General resource directory
+## Section 4 - Frequently Asked Questions
+ * ### 4.1 - Should I take X with Y?
+
+## Addendum A: Why does this exist?
+## Addendum B: On the differences between CS, Math+CS/Statistics+CS, and CS+X
+## Addendum C: General Resource directory
