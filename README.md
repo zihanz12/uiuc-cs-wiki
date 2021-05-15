@@ -11,9 +11,8 @@ As you might notice, this guide in its current state is woefully incomplete and 
 ## Section 0 - [Incoming Freshmen](https://github.com/mersaults/uiuc-cs-incoming-freshman-guide/blob/main/guide/section0.md)
   * ### 0.1 - Preparing For Your First Semester
   * ### 0.2 - Proficiency Exams
-  * ### 0.3 First-time Freshman Registration
-    * #### 0.3.5 - What Classes Should I Take?
-  * ### 0.4 - Advisor Meetings
+  * ### 0.3 - First-time Freshman Registration
+  * ### 0.4 - What Classes Should I Take?
   * ### 0.5 - Transferring to 
 
 ## Section 1 - [Curriculum Overview](https://github.com/mersaults/uiuc-cs-incoming-freshman-guide/blob/main/guide/section1.md)
