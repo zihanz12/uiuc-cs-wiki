@@ -1,11 +1,11 @@
 # Section 1 - Curriculum Overview
 
-Below is a list of the entire CS curriculum. If someone has written an overview for the course, it will have a link attached to it with said overview.
+Below is a list of most undergraduate CS courses offered by UIUC. If someone has written an overview for the course, it will have a link attached to it containing said overview.
 
 **NOTE: If you would like to contribute a course overview: Please see the [course overview styleguide](https://github.com/mersaults/uiuc-cs-wiki/blob/main/styleguides/overviewstyleguide.md) for reference.**
 
 ## 1.1 - Required Courses:
-The current sequence of required CS courses for CSENG, Math+CS, Stats+CS, and CS+X is as follows. Note that this is not an exhaustive list of degree requirements, and there are non CS courses that you will have to take.
+The current sequence of required CS courses for CSENG, Math+CS, Stats+CS, and CS+X is as follows. Note that this is not an exhaustive list of degree requirements.
 
 **CS124: Introduction to Computer Science I** 
 
@@ -20,13 +20,13 @@ The current sequence of required CS courses for CSENG, Math+CS, Stats+CS, and CS
 **CS241: System Programming** 
 
 **CS240: Introduction to Computer Systems** 
- * NOTE: Required only for select CS+X majors, but can be replaced by CS233 + CS241
+ * NOTE: Required only for select CS+X majors. Can be replaced by CS233 + CS241.
 
 **CS357: Numerical Methods**
- * NOTE: Required only for CSENG, Math+CS, and Stats+CS
+ * NOTE: Required only for CSENG, Math+CS, and Stats+CS.
 
 **CS361: Probabilty and Statistics for Computer Science**
- * NOTE: Can be replaced by select classes for non-CSENG majors
+ * NOTE: Can be replaced by select classes for non-CSENG majors.
 
 **CS374: Introduction to Algorithms and Models of Computation**
 
