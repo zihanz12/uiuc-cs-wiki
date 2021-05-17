@@ -2,7 +2,7 @@
 
 ## 0.1 Preparing for Your First Semester
 
-The best way to academically prepare is to celebrate your acceptance by getting a much needed break and enjoying your final moments as a high school student by spending time with friends and family. Unless you're planning on taking a proficiency exam to place out of a class, you do not need to do anything to prepare yourself for the CS curriculum at UIUC. That said, if you think you're rusty and want to practice coding before you start in class, [leetcode](leetcode.com) and [hackerrank](hackerrank.com) are both great resources to brush up on your programming skills.
+The best way to academically prepare is to celebrate your acceptance by getting a much needed break and enjoying your final moments as a high school student by spending time with friends and family. Unless you're planning on taking a proficiency exam to place out of a class, you do not need to do anything to prepare yourself for the CS curriculum at UIUC. That said, if you think you're rusty and want to practice coding, [leetcode](leetcode.com) and [hackerrank](hackerrank.com) are both good resources to brush up on your programming skills.
 
 ## 0.2 Proficiency Exams
 
