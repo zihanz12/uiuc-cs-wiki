@@ -2,11 +2,11 @@
 
 The following are a set of guidelines that all additions/revisions of the guide should adhere to. If these guidelines do not apply to whatever additions/changes you are introducing, you do not need to worry about them.
 
-***Lawfulness:*** - This repository is not a place to put any legally or morally dubious advice or content. As a litmus test, if something even seems dubious to include, don't include it.
+***Lawfulness:*** - This repository is not a place to put any legally or morally dubious advice or content. As a rule of thumb, if something even seems even slightly dubious to include, don't include it.
 
 ***Politeness:*** - The content in this guide is intended to be helpful, not mean or condescending to anyone. Don't include anything that demeans or is otherwise rude to students or faculty in any capacity whatsoever. 
 
-***Formality/convention:*** - Submissions don't have to be incredibly formal pieces of writing, but when submitting you should adhere to standard English writing conventions to the extent that your writing can be easily understood by all fluent English speakers.
+***Formality/convention:*** - Submissions don't have to be formal pieces of writing, but when submitting you should adhere to standard English writing conventions to the extent that your writing can be easily understood by all fluent English speakers.
 
 ***Readability:*** - Don't use jargon to convey information that could be said in plain English. CS-specific or department-specific jargon is occasionally fine and in some cases necessary, but try to make your writing as accessible as you can.
 
@@ -28,4 +28,4 @@ As a prerequisite, you should have [git](https://git-scm.com/) installed on what
 4. Make a pull request with this repository.
 
 # Issues
-If there are any overarching issues with the guide that you would like to see fixed, but you don't want to make a pull request, submit an issue to the repository.
+If there are any overarching issues with the guide that you would like to see fixed but you don't want to make a pull request, submit an issue to the repository.
