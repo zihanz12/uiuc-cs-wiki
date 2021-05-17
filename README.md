@@ -20,7 +20,6 @@ As you might notice, this guide in its current state is woefully incomplete and 
  * ### 1.2 - Electives 
 
 ## Section 2 - [Registration](https://github.com/mersaults/uiuc-cs-incoming-freshman-guide/blob/main/guide/section2.md)
- * ### 2.0.1 - Prerequisite Enforcement
  * ### 2.1 - Staggered Registration
  * ### 2.2 - Open Registration
  * ### 2.3 - Will I Get the CS Class I Want?
