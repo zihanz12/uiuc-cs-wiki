@@ -8,7 +8,7 @@
 Yes. The CS curriculum's [curriculum map](https://grainger.illinois.edu/academics/undergraduate/majors-and-minors/cs-map) explicitly lists CS128 and CS173 as being taken together, and if you are a CS major you will need to take these courses concurrently to graduate on time.
 
 ### CS225 + CS233:
-The viability of this combination depends on your own limits as a student and the constraints imposed by the other classes you're taking. CS225 and CS233 are particularly difficult, but they do have a large amount of work associated with them. This means that if you are not careful and overburden yourself with difficult or high-workload classes, it may too much work to be worth it.
+Doable, but not universally advisable. CS225 and CS233 are particularly difficult, but they do have a large amount of work associated with them. This means that if you are not careful and overburden yourself with difficult or high-workload classes, it may too much work to be worth it.
 
 ### CS233 + CS374:
 Generally considered to be not advisable. While CS233 is not the most difficult of courses in the core curriculum, combining CS233 and CS374 may end up being more trouble than it is worth due to the very high workload of CS374, which can be very time-demanding for many students. In the event that you are insistent on taking these at the same time, you ought to tailor your schedule to include classes that have a low amount of work.
@@ -38,11 +38,11 @@ CS277 should NOT be taken by CS majors, CS minors, or those who intend to take a
 
 ### CS233 + CS241 vs. CS240:
 
-On its face, CS240 is designed to be a substitute for 233/241 that condenses the material in both classes. CS240 was created for certain CS+X majors which the department believes do not require a thorough overview of computer systems. If you have any interest in either computer architecture or systems, it is recommended to take both CS233 and CS241 instead. Note that CS240 acts as a replacement for CS233 and CS241 exclusively for certain CS+X majors, and if your degree requirements do not explcitly specify CS240 as an option, you are required to take CS233 and CS241.
+On its face, CS240 is designed to be a substitute for 233/241 that condenses the material in both classes. CS240 was created for certain CS+X majors which the department believes do not require as extensive of an overview of computer systems. If you have any interest in either computer architecture or systems, it is recommended to take both CS233 and CS241 instead. Note that CS240 acts as a replacement for CS233 and CS241 exclusively for certain CS+X majors, and if your degree requirements do not explcitly specify CS240 as an option, you are required to take CS233 and CS241.
 
 CS240 provides a helpful [topic comparison chart](https://courses.grainger.illinois.edu/cs240/fa2020/static/lectures/cs240-topics.pdf) showing the pure content differences between the class and 233/241 based on what it covers in lecture. Notably, CS240 covers databases, containerization, and APIs, where CS233 and CS241 do not.
 
-### CS357 + CS457 vs. CS450
+### CS357 + CS457 vs. CS450:
 
 ### CS361 vs. STAT400 vs. MATH461:
 
@@ -52,4 +52,17 @@ CS240 provides a helpful [topic comparison chart](https://courses.grainger.illin
 
 LING406 is intended for CS+Linguistics students or students who have a good understanding of the linguistic theory associated with computational linguistics. CS447 by contrast does not require understanding of basic linguistics concepts, and introduces all of the concepts in class.
 
-### CS483/ECE408 vs. CS484
+### CS483/ECE408 vs. CS484:
+
+## 4.3 - What's the Difference Between CS, Math & CS/Statistics & CS, and CS+X?
+
+There are several concrete differences between CS+X and CSENG:
+* All students in +X programs have access to advising and resources both from the Grainger College of Engineering and the college that their +X is administrated under. CSENG students are
+* Barring the notable exceptions of Math+CS, Statistics+CS and CS+Astrophysics, CS+X degrees place less emphasis on math and science degree requirements. This does not imply that students in CS+X degree programs do not take advanced or foundational math and science courses, but rather that certain classes in these categories are not required to graduate.
+* +X degrees integrate interdisciplinary coursework as part of degree requirements.
+* Students who are not strictly CSENG majors cannot apply for the CS department's 5 year BS/MCS program.
+
+Math & CS/Statistics & CS and CS+X are not:
+* Dual degree programs. The requirements of CS+X are similar but not identical to the "pure" CS and +X parts it is composed of. This is by design, as there are some elements of the respective degree parts were deemed either superfluous, unecessary, or overly onerous for the purposes of an undergraduate degree.
+* Separate LAS degree programs. All students in these majors take the exact same CS classes as those in CSENG.
+* Objectively superior or inferior degrees. These degrees are ultimately tailored to fit a wide range of different student interests and backgrounds, and cannot be judged as better or worse than a CSENG degree. As a general rule of thumb, success in the field of CS is more determined by individual student effort and ability rather than degree title.
