@@ -29,7 +29,7 @@ As you might notice, this guide in its current state is woefully incomplete and 
  * ### 3.2 - Internships
  * ### 3.3 - Graduate School
 
-## Section 4 - Frequently Asked Questions
+## Section 4 - [Frequently Asked Questions](https://github.com/mersaults/uiuc-cs-wiki/blob/main/guide/section4.md)
  * ### 4.1 - Should I Take X With Y?
  * ### 4.2 - What's the Difference Between X and Y?
  * ### 4.3 - What's the Difference Between CS, Math+CS/Statistics+CS, and CS+X?
