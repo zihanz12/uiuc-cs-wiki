@@ -2,7 +2,7 @@
 
 ## 4.1 - Should I Take X with Y?
 
-**IMPORTANT NOTE:** All of these recommendations are based off of general consensus. Your ability to combine certain classes is ultimately determined by your own limits, strengths, and weaknesses as a student. The recommendations provided below should not be taken as gospel.
+**IMPORTANT NOTE:** All of the recommendations in this section are based on general consensus. Your ability to combine certain classes is ultimately determined by your own limits, strengths, and weaknesses as a student. The recommendations provided below should not be taken as gospel.
 
 ### CS128 + CS173: 
 Yes. The CS curriculum's [curriculum map](https://grainger.illinois.edu/academics/undergraduate/majors-and-minors/cs-map) explicitly lists CS128 and CS173 as being taken together, and if you are a CS major you will need to take these courses concurrently to graduate on time.
@@ -57,7 +57,7 @@ LING406 is intended for CS+Linguistics students or students who have a good unde
 ## 4.3 - What's the Difference Between CS, Math & CS/Statistics & CS, and CS+X?
 
 There are several concrete differences between CS+X and CSENG:
-* All students in +X programs have access to advising and resources both from the Grainger College of Engineering and the college that their +X is administrated under. CSENG students are
+* While CS+X students are nominally in the college that their +X is administrated by, all students in +X programs have access to advising and resources both from their +X college and Grainger College of Engineering. CSENG students are by contrast exclusively in the Grainger College of Engineering.
 * Barring the notable exceptions of Math+CS, Statistics+CS and CS+Astrophysics, CS+X degrees place less emphasis on math and science degree requirements. This does not imply that students in CS+X degree programs do not take advanced or foundational math and science courses, but rather that certain classes in these categories are not required to graduate.
 * +X degrees integrate interdisciplinary coursework as part of degree requirements.
 * Students who are not strictly CSENG majors cannot apply for the CS department's 5 year BS/MCS program.
@@ -65,4 +65,4 @@ There are several concrete differences between CS+X and CSENG:
 Math & CS/Statistics & CS and CS+X are not:
 * Dual degree programs. The requirements of CS+X are similar but not identical to the "pure" CS and +X parts it is composed of. This is by design, as there are some elements of the respective degree parts were deemed either superfluous, unecessary, or overly onerous for the purposes of an undergraduate degree.
 * Separate LAS degree programs. All students in these majors take the exact same CS classes as those in CSENG.
-* Objectively superior or inferior degrees. These degrees are ultimately tailored to fit a wide range of different student interests and backgrounds, and cannot be judged as better or worse than a CSENG degree. As a general rule of thumb, success in the field of CS is more determined by individual student effort and ability rather than degree title.
+* Objectively superior or inferior degrees. These degrees are ultimately tailored to fit a wide range of different student interests and backgrounds, and cannot be judged as better or worse than a CSENG degree. As a general rule of thumb, success in CS is more determined by individual student effort and ability rather than degree title.
