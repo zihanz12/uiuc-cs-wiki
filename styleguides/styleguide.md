@@ -2,7 +2,7 @@
 
 The following are a set of guidelines that all additions/revisions of the guide should adhere to. If these guidelines do not apply to whatever additions/changes you are introducing, you do not need to worry about them.
 
-***Lawfulness:*** - This repository is not a place to put any legally or morally dubious advice or content. As a rule of thumb, if something even seems even slightly dubious to include, don't include it.
+***Lawfulness:*** - This repository is not a place to put any legally or morally dubious advice or content. As a rule of thumb, if something even seems even slightly dubious to include, don't include it. All submissions should be in compliant with the [UIUC student code](https://studentcode.illinois.edu/) and FERPA.
 
 ***Politeness:*** - The content in this guide is intended to be helpful, not mean or condescending to anyone. Don't include anything that demeans or is otherwise rude to students or faculty in any capacity whatsoever. 
 
@@ -14,7 +14,7 @@ The following are a set of guidelines that all additions/revisions of the guide 
 
 ***Impartiality:*** - When providing advice, attempt to be impartial as you possibly can. If there is a general/historical consensus on something, go with that. Please remember that your experiences in a certain class or with respect to a certain aspect of the department are not universal.
 
-***Accuracy:*** - Submissions should be current and as accurate as they possibly can be. Ideally you should be able to trace your information back to some reliable department-internal source. If that's not possible, the information should be able to be easily corroborated by someone else.
+***Accuracy:*** - Submissions should be current and accurate. Ideally you should be able to trace your information back to some reliable department-internal source. If that's not possible, the information should be able to be easily corroborated by someone else.
 
 ***Formatting:*** - Your submissions should generally be similar if not identical to the already existing formatting of the guide. If there's no established precedent for formatting, go with your what you think is best.
 
