@@ -26,6 +26,7 @@ As a prerequisite, you should have [git](https://git-scm.com/) installed on what
 2. Create a new branch in your forked repository.
 3. Make and commit whatever changes you would like to make in your newly created branch.
 4. Make a pull request with this repository.
+5. (Optional) Add you name and a link to your Github page in AUTHORS.md. You are by no means required to do this step, but if you would like to be credited for your work you absolutely can.
 
 # Issues
 If there are any issues with the guide that you would like to see fixed, submit an issue to the repository.
