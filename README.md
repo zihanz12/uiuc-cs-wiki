@@ -24,7 +24,7 @@ As you might notice, this guide in its current state is woefully incomplete and 
  * ### 2.2 - Open Registration
  * ### 2.3 - Will I Get the CS Class I Want?
 
-## Section 3 - Research, Internships, and Continuing Education
+## Section 3 - [Research, Internships, and Continuing Education](https://github.com/mersaults/uiuc-cs-wiki/blob/main/guide/section3.md)
  * ### 3.1 - Career Fairs
  * ### 3.2 - Internships
  * ### 3.3 - Graduate School
