@@ -17,6 +17,7 @@ This is by far the least advisable of all of the combinations listed. Via Wade-F
 ## 4.2 - What's the Difference Between X and Y?
 
 ### CS101 vs. CS105 vs. CS124:
+CS101 and CS105 are NOT intended for students who want to take additional CS classes, as they will not provide you with a good enough background to understand higher level material. CS101 and CS105 exist for non-CS majors that require some amount of programming or software knowledge. However, CS124 is comprehensive introductory course designed for incoming CS majors. Students who wish to pursue a CS minor or explore CS related classes should always take CS124 instead of CS101 and CS105.
 
 ### CS173 vs. MATH213 vs. MATH347:
 
