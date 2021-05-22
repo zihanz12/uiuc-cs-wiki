@@ -8,7 +8,7 @@
 Yes. The CS curriculum's [curriculum map](https://grainger.illinois.edu/academics/undergraduate/majors-and-minors/cs-map) explicitly lists CS128 and CS173 as being taken together, and if you are a CS major you will need to take these courses concurrently to graduate on time.
 
 ### CS225 + CS233:
-Doable, but not universally advisable. CS225 and CS233 are particularly difficult, but they do have a large amount of work associated with them. This means that if you are not careful and overburden yourself with difficult or high-workload classes, it may too much work to be worth it.
+Doable, but not universally advisable. CS225 and CS233 are not particularly difficult, but they do have a large amount of work associated with them. This means that if you are not careful and overburden yourself with difficult or high-workload classes, this combination may be more work than it's worth.
 
 ### CS233 + CS374:
 Generally considered to be not advisable. While CS233 is not the most difficult of courses in the core curriculum, combining CS233 and CS374 may end up being more trouble than it is worth due to the very high workload of CS374, which can be very time-demanding for many students. In the event that you are insistent on taking these at the same time, you ought to tailor your schedule to include classes that have a low amount of work.
