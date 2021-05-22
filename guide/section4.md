@@ -42,10 +42,14 @@ On its face, CS240 is designed to be a substitute for 233/241 that condenses the
 
 CS240 provides a helpful [topic comparison chart](https://courses.grainger.illinois.edu/cs240/fa2020/static/lectures/cs240-topics.pdf) showing the pure content differences between the class and 233/241 based on what it covers in lecture. Notably, CS240 covers databases, containerization, and APIs, where CS233 and CS241 do not.
 
+### CS357 + CS457 vs. CS450
+
 ### CS361 vs. STAT400 vs. MATH461:
 
 ### CS440 vs. CS441 vs. CS446:
 
 ### CS447 vs. LING406:
 
-LING406 is intended for CS+Linguistics students or students who have a good understanding of the linguistic theory associated with computational linguistics.
+LING406 is intended for CS+Linguistics students or students who have a good understanding of the linguistic theory associated with computational linguistics. CS447 by contrast does not require understanding of basic linguistics concepts, and introduces all of the concepts in class.
+
+### CS483/ECE408 vs. CS484
