@@ -2,7 +2,7 @@
 
 The following are a set of guidelines that all additions/revisions of the guide should adhere to. If these guidelines do not apply to whatever additions/changes you are introducing, you do not need to worry about them.
 
-***Lawfulness:*** - This repository is not a place to put any legally or morally dubious advice or content. As a rule of thumb, if something even seems even slightly dubious to include, don't include it. All submissions should be in compliant with the [UIUC student code](https://studentcode.illinois.edu/) and FERPA.
+***Lawfulness:*** - This repository is not a place to put any legally or morally dubious advice or content. As a rule of thumb, if something even seems even slightly dubious to include, don't include it. All submissions should be compliant with the [UIUC student code](https://studentcode.illinois.edu/) and FERPA.
 
 ***Politeness:*** - The content in this guide is intended to be helpful, not mean or condescending to anyone. Don't include anything that demeans or is otherwise rude to students or faculty in any capacity whatsoever. 
 
