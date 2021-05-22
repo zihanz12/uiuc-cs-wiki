@@ -13,16 +13,18 @@ The current sequence of required CS courses for CSENG, Math+CS, Stats+CS, and CS
 
 **CS173: Discrete Structures** 
 
+**CS222: Software Design Lab**
+
 [**CS225: Data Structures**](https://github.com/mersaults/uiuc-cs/blob/main/guide/courseoverviews/cs225.md)
 
 **CS233: Computer Architecture** 
 
-**CS241: System Programming** 
+**CS241: System Programming**
 
 **CS240: Introduction to Computer Systems** 
  * NOTE: Required only for select CS+X majors. Can be replaced by CS233 + CS241.
 
-**CS357: Numerical Methods**
+**CS357: Numerical Methods I**
  * NOTE: Required only for CSENG, Math+CS, and Stats+CS.
 
 **CS361: Probabilty and Statistics for Computer Science**
