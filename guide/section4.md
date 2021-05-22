@@ -2,11 +2,13 @@
 
 ## 4.1 - Should I Take X with Y?
 
+**IMPORTANT NOTE:** All of these recommendations are based off of general consensus. Your ability to combine certain classes is ultimately determined by your own limits, strengths, and weaknesses as a student. The recommendations provided below should not be taken as gospel.
+
 ### CS128 + CS173: 
-Yes. The CS curriculum's [curriculum map](https://grainger.illinois.edu/academics/undergraduate/majors-and-minors/cs-map) explicitly lists CS128 and CS173 as being taken together, and in order to graduate on time you will need to take these courses concurrently.
+Yes. The CS curriculum's [curriculum map](https://grainger.illinois.edu/academics/undergraduate/majors-and-minors/cs-map) explicitly lists CS128 and CS173 as being taken together, and if you are a CS major you will need to take these courses concurrently to graduate on time.
 
 ### CS225 + CS233:
-The viability of this combination is ultimately dependent on your own limits as a student and the constraints imposed by the other classes you're taking. CS225 and CS233 are not the most difficult of classes, however they do have a large amount of work associated with them, meaning that if you are not careful and overburden yourself with difficult or high-workload classes, it may too much work to be worth it.
+The viability of this combination depends on your own limits as a student and the constraints imposed by the other classes you're taking. CS225 and CS233 are particularly difficult, but they do have a large amount of work associated with them. This means that if you are not careful and overburden yourself with difficult or high-workload classes, it may too much work to be worth it.
 
 ### CS233 + CS374:
 Generally considered to be not advisable. While CS233 is not the most difficult of courses in the core curriculum, combining CS233 and CS374 may end up being more trouble than it is worth due to the very high workload of CS374, which can be very time-demanding for many students. In the event that you are insistent on taking these at the same time, you ought to tailor your schedule to include classes that have a low amount of work.
@@ -17,19 +19,28 @@ This is by far the least advisable of all of the combinations listed. Via Wade-F
 ## 4.2 - What's the Difference Between X and Y?
 
 ### CS101 vs. CS105 vs. CS124:
-CS101 and CS105 are NOT intended for students who want to take additional CS classes, as they will not provide you with a good enough background to understand higher level material. CS101 and CS105 exist for non-CS majors that require some amount of programming or software knowledge. However, CS124 is comprehensive introductory course designed for incoming CS majors. Students who wish to pursue a CS minor or explore CS related classes should always take CS124 instead of CS101 and CS105.
+
+On face, CS101 and CS105 are NOT intended for students who want to take additional CS classes, as they will not provide you with a good enough background to understand material in later CS classes. CS101 is intended for technical majors that require basic programming knowledge, and CS105 is intended for non-technical majors that require some basic understanding of computer systems and of certain software packages.
+
+In contrast, CS124 is comprehensive introductory programming course designed for incoming CS majors. Students who wish to pursue a CS minor or explore CS related classes should always take CS124 instead of CS101 and CS105.
 
 ### CS173 vs. MATH213 vs. MATH347:
 
-With respect to the CS curriculum, MATH213 is primarily taken by ECE majors in order to meet the prerequisites to take CS225. CS majors are not allowed to replace CS173 with MATH347 or MATH213, both because the department will not accept replacement credit and because CS374 (a required class to graduate) specifically requires CS173. MATH347 is taken by Math and Math & CS majors as a degree requirement.
+CS173 and MATH213 have a very large amount of content overlap, although CS173 is generally considered to be a better and more uniformly run class than MATH213. With respect to the CS curriculum, MATH213 is primarily taken by non-majors who aren't able to take CS173 in order to meet the prerequisites to take CS225. CS majors are not allowed to replace CS173 with MATH347 or MATH213, both because the department will not accept replacement credit and because CS374 (a required course) explcitly requires CS173.
+
+MATH347 is taken by Math and Math & CS majors as a degree requirement. The class is more intended as a rigorous introduction to college mathematics rather than something strictly CS oriented, although there is a large enough content overlap to the extent that some who take MATH347 choose to test out of CS173 to avoid redundancy. Students wishing to take up a Math double major or minor should take MATH347 regardless of whether or not they've taken CS173.
 
 ### CS225 vs. CS277:
 
+While CS277 is being offered for the first time next semester, the intent of the class is intended to be a data science and non-major oriented course that covers some of the same material that CS225 covers but builds on it in the context of [STAT107](https://stat107.hknguyen.org/) and [STAT207](http://courses.las.illinois.edu/spring2020/stat207/syllabus/). CS277 should be taken by non-majors who have interests in data science and have taken or want to take STAT107 and STAT207.
+
+CS277 should NOT be taken by CS majors, CS minors, or those who intend to take additional CS courses explicitly requiring CS225. CS225 will provide a wider and more rigorous overview of data structures because it builds on the material of previous CS courses rather than STAT107 and STAT207.
+
 ### CS233 + CS241 vs. CS240:
 
-CS240 provides a helpful [topic comparison chart](https://courses.grainger.illinois.edu/cs240/fa2020/static/lectures/cs240-topics.pdf) showing the pure content differences between itself and 233/241 based on what it covers in lecture. On its face, CS240 is designed to be a substitute for 233/241 that condenses the material in both classes. CS240 was created for certain CS+X majors which the department believe did not a require an incredibly thorough overview of computer systems. If you have any interest in either computer architecture or systems, it is generally recommended that you take both CS233 and CS241 instead of CS240, but if you are not required and you don't care to take both then it's perfectly fine to take CS240.
+On its face, CS240 is designed to be a substitute for 233/241 that condenses the material in both classes. CS240 was created for certain CS+X majors which the department believes do not require a thorough overview of computer systems. If you have any interest in either computer architecture or systems, it is recommended to take both CS233 and CS241 instead. Note that CS240 acts as a replacement for CS233 and CS241 exclusively for certain CS+X majors, and if your degree requirements do not explcitly specify CS240 as an option, you are required to take CS233 and CS241.
 
-### CS222 vs. CS242:
+CS240 provides a helpful [topic comparison chart](https://courses.grainger.illinois.edu/cs240/fa2020/static/lectures/cs240-topics.pdf) showing the pure content differences between the class and 233/241 based on what it covers in lecture. Notably, CS240 covers databases, containerization, and APIs, where CS233 and CS241 do not.
 
 ### CS361 vs. STAT400 vs. MATH461:
 
@@ -37,3 +48,4 @@ CS240 provides a helpful [topic comparison chart](https://courses.grainger.illin
 
 ### CS447 vs. LING406:
 
+LING406 is intended for CS+Linguistics students or students who have a good understanding of the linguistic theory associated with computational linguistics.
