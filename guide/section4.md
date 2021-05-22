@@ -5,7 +5,7 @@
 **IMPORTANT NOTE:** All of the recommendations in this section are based on general consensus. Your ability to combine certain classes is ultimately determined by your own limits, strengths, and weaknesses as a student. The recommendations provided below should not be taken as gospel.
 
 ### CS128 + CS173: 
-Yes. The CS curriculum's [curriculum map](https://grainger.illinois.edu/academics/undergraduate/majors-and-minors/cs-map) explicitly lists CS128 and CS173 as being taken together, and if you are a CS major you will need to take these courses concurrently to graduate on time.
+Yes. The CS department's [curriculum map](https://grainger.illinois.edu/academics/undergraduate/majors-and-minors/cs-map) explicitly lists CS128 and CS173 as being taken together, and if you are a CS major you will need to take these courses concurrently to graduate on time.
 
 ### CS225 + CS233:
 Doable, but not universally advisable. CS225 and CS233 are not particularly difficult, but they do have a large amount of work associated with them. This means that if you are not careful and overburden yourself with difficult or high-workload classes, this combination may be more work than it's worth.
@@ -50,17 +50,18 @@ CS240 provides a helpful [topic comparison chart](https://courses.grainger.illin
 
 ### CS447 vs. LING406:
 
-LING406 is intended for CS+Linguistics students or students who have a good understanding of the linguistic theory associated with computational linguistics. CS447 by contrast does not require understanding of basic linguistics concepts, and introduces all of the concepts in class.
+LING406 is intended for CS+Linguistics students or students who have a good understanding of the linguistic theory associated with computational linguistics. CS447 by contrast does not require understanding of basic linguistics concepts, and introduces all of the relevant linguistic concepts in class.
 
 ### CS483/ECE408 vs. CS484:
 
 ## 4.3 - What's the Difference Between CS, Math & CS/Statistics & CS, and CS+X?
+NOTE: For the intents and purposes of this sections, Math & CS and Statistics & CS will be grouped into CS+X, as they have functionally the same overarching characteristics. The reason why these degrees are named separately is because Math & CS and Statistics & CS both predate CS+X.
 
 There are several concrete differences between CS+X and CSENG:
 * While CS+X students are nominally in the college that their +X is administrated by, all students in +X programs have access to advising and resources both from their +X college and Grainger College of Engineering. CSENG students are by contrast exclusively in the Grainger College of Engineering.
 * Barring the notable exceptions of Math+CS, Statistics+CS and CS+Astrophysics, CS+X degrees place less emphasis on math and science degree requirements. This does not imply that students in CS+X degree programs do not take advanced or foundational math and science courses, but rather that certain classes in these categories are not required to graduate.
-* +X degrees integrate interdisciplinary coursework as part of degree requirements.
-* Students who are not strictly CSENG majors cannot apply for the CS department's 5 year BS/MCS program.
+* +X degrees integrate interdisciplinary coursework as a part of their degree requirements.
+* Non-CSENG majors cannot apply for the CS department's 5 year BS/MCS program.
 
 Math & CS/Statistics & CS and CS+X are not:
 * Dual degree programs. The requirements of CS+X are similar but not identical to the "pure" CS and +X parts it is composed of. This is by design, as there are some elements of the respective degree parts were deemed either superfluous, unecessary, or overly onerous for the purposes of an undergraduate degree.
