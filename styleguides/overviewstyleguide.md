@@ -35,3 +35,4 @@ All course overviews should have the following information:
 * Additional Notes
   * Optional if there is nothing of note that needs to be said.
  
+ A general template for overviews can be found [here](https://github.com/mersaults/uiuc-cs-wiki/blob/main/guide/courseoverviews/template.md).
