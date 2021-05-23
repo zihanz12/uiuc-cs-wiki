@@ -22,7 +22,7 @@ The following are a set of guidelines that all additions/revisions of the guide 
 As a prerequisite, you should have [git](https://git-scm.com/) installed on whatever device you are contributing from.
 
 1. Fork the repository.
-  * If you would like to make continuing contributions to the guide, make sure to configure this repository as your fork's remote repo by using `git add remote upstream https://github.com/mersaults/uiuc-cs-wiki.git`. Make sure you use `git pull` before you make a contribution to make sure that your fork is up to date with the latest version of the guide.
+  * If you would like to make continuing contributions to the guide, make sure to configure this repository as your fork's remote repo by using `git add remote upstream https://github.com/mersaults/uiuc-cs-wiki.wiki.git`. Make sure you use `git pull` before you make a contribution to make sure that your fork is up to date with the latest version of the guide.
 2. Create a new branch in your forked repository.
 3. Make and commit whatever changes you would like to make in your newly created branch.
 4. Make a pull request with this repository.
