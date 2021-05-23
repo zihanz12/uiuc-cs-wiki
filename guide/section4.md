@@ -55,12 +55,12 @@ LING406 is intended for CS+Linguistics students or students who have a good unde
 ### CS483/ECE408 vs. CS484:
 
 ## 4.3 - What's the Difference Between CS, Math & CS/Statistics & CS, and CS+X?
-NOTE: For the intents and purposes of this sections, Math & CS and Statistics & CS will be grouped into CS+X, as they have functionally the same overarching characteristics. The reason why these degrees are named separately is because Math & CS and Statistics & CS both predate CS+X.
+For the intents and purposes of this sections, Math & CS and Statistics & CS will be grouped into CS+X, as they have functionally the same overarching characteristics. The reason why these degrees are named separately is because Math & CS and Statistics & CS both predate CS+X.
 
 There are several concrete differences between CS+X and CSENG:
+* CS+X features significantly different coursework from CSENG, integrating interdisciplinary courses drawing from the +X part of the degree. For reference, the [CS+Linguistics degree page](http://catalog.illinois.edu/undergraduate/eng_las/computer-science-linguistics-bslas/#degreerequirementstext) features a good example of what CS+X coursework looks like.
 * While CS+X students are nominally in the college that their +X is administrated by, all students in +X programs have access to advising and resources both from their +X college and Grainger College of Engineering. CSENG students are by contrast exclusively in the Grainger College of Engineering.
 * Barring the notable exceptions of Math+CS, Statistics+CS and CS+Astrophysics, CS+X degrees place less emphasis on math and science degree requirements. This does not imply that students in CS+X degree programs do not take advanced or foundational math and science courses, but rather that certain classes in these categories are not required to graduate.
-* +X degrees integrate interdisciplinary coursework as a part of their degree requirements.
 * Non-CSENG majors cannot apply for the CS department's 5 year BS/MCS program.
 
 Math & CS/Statistics & CS and CS+X are not:
