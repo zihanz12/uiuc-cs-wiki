@@ -22,7 +22,7 @@ The current sequence of required CS courses for CSENG, Math+CS, Stats+CS, and CS
 **CS241: System Programming**
 
 **CS240: Introduction to Computer Systems** 
- * NOTE: Required only for select CS+X majors. Can be replaced by CS233 + CS241.
+ * NOTE: This class is an optional replacement for CS233 and CS241 for all non-CSENG majors.
 
 **CS357: Numerical Methods I**
  * NOTE: Required only for CSENG, Math+CS, and Stats+CS.
